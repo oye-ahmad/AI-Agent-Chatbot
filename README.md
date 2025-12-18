@@ -7,15 +7,15 @@ An intelligent, customizable AI Agent that dynamically selects large language mo
 
 This project implements a tool-augmented AI Agent chatbot using LangGraph’s ReAct agent architecture. The system allows users to:
 
-==> Define custom AI personalities (system prompts)
+--> Define custom AI personalities (system prompts)
 
-==> Choose between Groq and OpenAI models
+--> Choose between Groq and OpenAI models
 
-==> Enable or disable real-time web search
+--> Enable or disable real-time web search
 
-==> Interact via a Streamlit-based UI
+--> Interact via a Streamlit-based UI
 
-==> Communicate securely through a FastAPI backend
+--> Communicate securely through a FastAPI backend
 
 The architecture cleanly separates UI, API, and AI reasoning logic, making the project modular, scalable, and production-ready.
 
@@ -150,4 +150,4 @@ Passionate about AI/ML, Data Science, App Development and Bug Hunting
 
 --> OpenAI
 
-Tavily Search
+--> Tavily Search
